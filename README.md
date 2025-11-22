@@ -50,14 +50,10 @@ Source: Public dataset from Zomato India
 ✔ Map Chart — Rating Distribution Across Cities  
 ✔ Final Tableau Dashboard  
 
-📍 Screenshots included in `/Screenshots` folder.
+
 
 ---
 
-## 📈 Dashboard Preview  
-
-> 📌 *(Add Screenshot)*  
-`/Screenshots/dashboard.png`
 
 ---
 
@@ -87,11 +83,11 @@ This analysis highlights restaurant patterns across India and demonstrates how T
 
 ## 👩‍💻 Author  
 
-**Your Name**  
+**Aditya Srivastava**  
 📍 Data & Business Analyst  
 
-🔗 LinkedIn: *(Your link)*  
-🔗 Tableau Public: *(Your link)*  
+🔗 LinkedIn: *(https://www.linkedin.com/in/aditya-srivastava8626/)*  
+🔗 Tableau Public: *(https://public.tableau.com/app/profile/aditya.srivastava2960/vizzes)*  
 
 ---
 
